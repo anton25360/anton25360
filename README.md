@@ -17,7 +17,7 @@ Currently a developer at ON.
 - ⚡ [Packsmith](https://packsmith.io/) 
 
 **Mobile projects** 💽
-- ⚡ Steasy companion App (React Native)
-- ⚡ Clair Music Practice (React Native)
-- ⚡ *Demo project* - Cascade is available to download [here](http://bit.ly/cascade-app) (Java / Firebase)
-- ⚡ *Demo project* - Glass is available to download [here](http://bit.ly/glass-app) (React Native)
+- 📱 Steasy companion App (React Native)
+- 📱 Clair Music Practice (React Native)
+- 📱 *Demo project* - Cascade is available to download [here](http://bit.ly/cascade-app) (Java / Firebase)
+- 📱 *Demo project* - Glass is available to download [here](http://bit.ly/glass-app) (React Native)
