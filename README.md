@@ -1,7 +1,7 @@
 Hi, I'm Anton 👋
 Currently a developer at ON.
 
-**Web projects** 💽
+**Web projects**
 - ⚡ [Owkin](https://www.owkin.com/) 
 - ⚡ [Atelier 100](https://www.atelier100.com/) 
 - ⚡ [Seekers of Skyveil (Elodie Games)](https://www.seekerofskyveil.com/) 
@@ -16,7 +16,7 @@ Currently a developer at ON.
 - ⚡ [The Quarry](https://the-quarry.co.uk/) 
 - ⚡ [Packsmith](https://packsmith.io/) 
 
-**Mobile projects** 💽
+**Mobile projects**
 - 📱 Steasy companion App (React Native)
 - 📱 Clair Music Practice (React Native)
 - 📱 *Demo project* - Cascade is available to download [here](http://bit.ly/cascade-app) (Java / Firebase)
