@@ -17,6 +17,7 @@ Currently a developer at ON.
 - ⚡ [Packsmith](https://packsmith.io/) 
 
 **Mobile projects**
+- 📱 [Tribe by HAYAH](https://hayah.com/tribe-by-hayah) (React Native)
 - 📱 Steasy companion App (React Native)
 - 📱 Clair Music Practice (React Native)
 - 📱 *Demo project* - Cascade is available to download [here](http://bit.ly/cascade-app) (Java / Firebase)
