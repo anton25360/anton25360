@@ -14,7 +14,8 @@ Currently a developer at ON.
 - ⚡ [Fyllo](https://www.hellofyllo.com/) 
 - ⚡ [Flowhaven](https://flowhaven.com/) 
 - ⚡ [The Quarry](https://the-quarry.co.uk/) 
-- ⚡ [Packsmith](https://packsmith.io/) 
+- ⚡ [Packsmith](https://packsmith.io/)
+- ⚡ [OurCo Platform](https://ourco.com/)
 
 **Mobile projects**
 - 📱 [Tribe by HAYAH](https://hayah.com/tribe-by-hayah) (React Native)
