@@ -18,6 +18,6 @@ Currently a developer at ON.
 
 **Mobile projects**
 - 📱 [Tribe by HAYAH](https://hayah.com/tribe-by-hayah) (React Native)
-- 📱 Steasy companion App (React Native)
+- 📱 [Steasy companion App](https://play.google.com/store/apps/details?id=com.anonymous.Steasy&hl=en_GB&gl=US) (React Native)
 - 📱 Clair Music Practice (React Native)
 - 📱 *Demo project* - Cascade is available to download [here](http://bit.ly/cascade-app) (Java / Firebase)
